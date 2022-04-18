@@ -5,7 +5,7 @@
  $ pip install requests 
  $ git clone https://github.com/Rhnzd/2
  ```
-<hr>
+
 # Menjalankan
 ```
  $ cd 2
