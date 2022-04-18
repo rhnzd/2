@@ -1,9 +1,9 @@
 # Dek
 ```
  $ pkg install python
- $ pkg install rich
+ $ pkg install rich 
  $ pip install requests 
- $ git clone https://github.com/Rhnzd/2
+ $ git clone https://github.com/rhnzd/2
  ```
 
 # Menjalankan
