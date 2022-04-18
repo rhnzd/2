@@ -1,7 +1,7 @@
 # Dek
 ```
  $ pkg install python
- $ pkg install rich 
+ $ pip install rich 
  $ pip install requests 
  $ git clone https://github.com/rhnzd/2
  ```
